@@ -26,5 +26,6 @@
   </classloader>
   <civix>
     <namespace>CRM/ActivityAttachments</namespace>
+    <format>25.01.1</format>
   </civix>
 </extension>
